@@ -19,11 +19,10 @@ client.conf = {
       "botadı": "Proxie",// BOT NAME
       "davetlinki": "https://bit.ly/proxiebot",//İNVİTE LİNK
       "desteklinki": "https://discord.com/invite/5g4jszC",// SUPPORT SERVER LİNK
-      "apikey": "AIzaSyAr7LaiwC2BXl6pHqBh7-fN26-2X38j488",
-      "oylinki": "https://top.gg/bot/701127077969002547/vote"
+      "oylinki": "https://top.gg/bot/701127077969002547/vote" // DBL VOTE LİNK
     }
     var prefix = client.conf.prefix
-    client.avatarURL = client.user.avatarURL()
+    client.avatarURL = "BOT LOGO"//optional
 
 
 
